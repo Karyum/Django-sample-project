@@ -1,4 +1,5 @@
-### You can see the difference in this branch in the following files:
+# Django-sample-project
 
-- polls/urls.py
-- polls/views.py
+this website follows the guide on the Django docs
+
+make sure to check the django-generic-views branch on this repo
